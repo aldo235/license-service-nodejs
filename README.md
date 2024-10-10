@@ -1,5 +1,5 @@
 
-# Node.js License Service (DDD Architecture)
+# Node.js License Service (DDD & CQRS Architecture)
 
 The License Service provides an interface for managing licenses in an application. It generates and verifies license keys associated with devices based on a master key and additional metadata, using HMAC-based encryption for security.
 
